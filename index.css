@@ -1,0 +1,9 @@
+.container-fluid{
+    background: linear-gradient(to right, #93EDC7, #1CD8D2);
+    font-family: cursive;
+}
+button:hover{
+    background: linear-gradient(to right, #12fc6c, #137875); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    outline: none;
+    border: transparent;
+}
